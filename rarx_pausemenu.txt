@@ -1,0 +1,6 @@
+{
+    "version": "1.3.1",
+    "updates": [
+        "Changed all internal logic of the script, optimized and adding new features for future updates"
+    ]
+}
