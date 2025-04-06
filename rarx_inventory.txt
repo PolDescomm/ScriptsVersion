@@ -1,0 +1,6 @@
+{
+    "version": "2.1",
+    "updates": [
+        "Check discord for more information"
+    ]
+}
