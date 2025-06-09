@@ -1,6 +1,8 @@
 {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "updates": [
-        "Fixed minnor bugs"
+        "Added bag"
+        "Fixed some bugs"
+        "Added compatibility with Origen_Ilegal & Origen_Masterjob"
     ]
 }
