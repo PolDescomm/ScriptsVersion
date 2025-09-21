@@ -1,6 +1,6 @@
 {
-    "version": "1.1.5",
+    "version": "1.2.1",
     "updates": [
-        "Solved some errores and added new translate system"
+        "Solved some errores and added new conf for initial car"
     ]
 }
